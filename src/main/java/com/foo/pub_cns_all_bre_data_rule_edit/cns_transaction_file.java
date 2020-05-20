@@ -1,4 +1,4 @@
-package com.foo.temp_proj;
+package com.foo.pub_cns_all_bre_data_rule_edit;
 
 import java.math.*;
 import java.lang.Object;
